@@ -1,0 +1,192 @@
+{
+	"biome": "biomesoplenty:corrupted_sands",
+	"generationWeight": 8,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"isEnabled": true,
+	"blocks": {},
+	"entities": [
+		{
+			"entity": "minecraft:ghast",
+			"spawnWeight": 50,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "minecraft:zombie_pigman",
+			"spawnWeight": 100,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "minecraft:magma_cube",
+			"spawnWeight": 2,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "minecraft:enderman",
+			"spawnWeight": 1,
+			"minimumGroupCount": 4,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "gravestone-extended:gswitherskullcrawler",
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "gravestone-extended:gstoxicsludge",
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "gravestone-extended:gspossessedarmor",
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "gravestone-extended:gsmummy",
+			"spawnWeight": 20,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "gravestone-extended:gsvampirebat",
+			"spawnWeight": 30,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 5
+		}, 
+		{
+			"entity": "gravestone-extended:gswitheredbat",
+			"spawnWeight": 40,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "mocreatures:biggolem",
+			"spawnWeight": 3,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "mocreatures:caveogre",
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:fireogre",
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:flamewraith",
+			"spawnWeight": 5,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:greenogre",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:hellrat",
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:horsemob",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "mocreatures:manticore",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "mocreatures:minigolem",
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "mocreatures:rat",
+			"spawnWeight": 7,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}, 
+		{
+			"entity": "mocreatures:scorpion",
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "mocreatures:silverskeleton",
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:werewolf",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:wraith",
+			"spawnWeight": 6,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 4
+		}, 
+		{
+			"entity": "mocreatures:wwolf",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 3
+		}, 
+		{
+			"entity": "ebwizardry:lightning_wraith",
+			"spawnWeight": 1,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "ebwizardry:evil_wizard",
+			"spawnWeight": 3,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "mocreatures:elephant",
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "mocreatures:ostrich",
+			"spawnWeight": 4,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "mocreatures:snake",
+			"spawnWeight": 8,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 2
+		}
+	],
+	"traits": [],
+	"subBiomes": []
+}

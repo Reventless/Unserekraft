@@ -1,0 +1,24 @@
+
+# Created by Ruins mod version 14.8 Ingame Parser
+# authoring Player: SunsOfOld
+
+weight=1
+embed_into_distance=0
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=1,1,1
+allowable_overhang=0
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+uniqueMinDistance=1000000
+preventRotation=1
+
+
+rule1=0,100,MobSpawner:Shark
+
+layer
+1
+endlayer
+
