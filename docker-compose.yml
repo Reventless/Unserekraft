@@ -2,6 +2,7 @@ version: '3.2'
 
 services:
   minecraft-forge:
+    image: server
     build:
       dockerfile: Dockerfile
     ports: 
