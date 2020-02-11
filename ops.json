@@ -4,5 +4,11 @@
     "name": "EvilAragon",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "42bfaa1a-a477-417c-9d94-05f0b17de825",
+    "name": "Reventless7",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
